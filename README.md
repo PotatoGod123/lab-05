@@ -5,7 +5,7 @@
 For today's lab assignment, you will work independently to create a personal portfolio. You will begin with the provided starter code and modify the contents to complete your feature tasks. Take time to review the provided code base and understand its structure before adding features.
 
 ## Resources
-
+- [Deployed Site](https://porfolio-cristain-robles.herokuapp.com/)
 - [HTML5 UP templates](https://html5up.net/)
 
 ## Repository Set-up
